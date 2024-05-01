@@ -1,4 +1,3 @@
-
 # DIO - Resumos Curso de Desenvolvimentos de Jogos com Godot - Bootcamp Santander 2024
 
 Repositório para guaradar anotações relacionadas aos diversos assuntos abordados no [Bootcamp Santander 2023, trilha de Desenvolvimentos de Jogos com Godot](https://web.dio.me/track/santander-2024-criando-jogos-com-godot/).
