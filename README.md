@@ -9,6 +9,6 @@ Repositório para guaradar anotações relacionadas aos diversos assuntos aborda
 
 | Curso | 📚 Documentação 📚: | Resumo:|
 |-------|----------------------|--------|
-| Versionamento de Código com Git e GitHub | - [Git](https://git-scm.com/docs/git/pt_BR) | [anotações](https://drive.google.com/file/d/125El10RQPqmom2eRQo37Bcs5wyLFgOQp/view?usp=drive_link)|
+| Versionamento de Código com Git e GitHub | - [Git](https://git-scm.com/docs/git/pt_BR) | [anotações](https://drive.google.com/file/d/1xaUYRoPpi1L2UTlXMtCRUj0-rsOnPrBU/view?usp=drive_link)|
 |                                        | - [GitHub](https://docs.github.com/pt)        |              |
 | Curso 2                                | -                                               | [anotações nop] |
